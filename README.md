@@ -6,6 +6,8 @@
 
 🌱 I’m currently learning Python, Javascript, Ruby, C#, Java, PHP...you name it! I am really enjoying understanding how various languages relate and take on various tasks.
 
+⚡ About that grey square on September 16, 2020: I normally study and practice coding in the evening after work and after working on Duolingo (French, Spanish, Portuguese and Italian!). That evening, I had gotten to my coding work while my dad had been messing around outside; he likes to tinker with stuff around the house when my husband is traveling. Dad comes in, says, "I started a fire in the firepit, you should make s'mores." Now, no one is going to argue with that! So I made and ate s'mores and never finished my coding work for the day - the s'mores tasted great!
+
 😄 Pronouns: She/Her
 
 💬 Contact Information:
