@@ -11,4 +11,4 @@ Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux &bull; SQL &bull;
 she/her
 
 ## Contact Information
-[kristenkinnearohlmann.dev](https://kristenkinnearohlmann.dev/) &bull; [@kinnear_ohlmann](https://twitter.com/kinnear_ohlmann) &bull; [in/kristenkinnearohlmann/](https://www.linkedin.com/in/kristenkinnearohlmann/) &bull [kristenkinnearohlmann@gmail.com](mailto:kristenkinnearohlmann@gmail.com)
+[kristenkinnearohlmann.dev](https://kristenkinnearohlmann.dev/) &bull; [@kinnear_ohlmann](https://twitter.com/kinnear_ohlmann) &bull; [in/kristenkinnearohlmann/](https://www.linkedin.com/in/kristenkinnearohlmann/) &bull; [kristenkinnearohlmann@gmail.com](mailto:kristenkinnearohlmann@gmail.com)
