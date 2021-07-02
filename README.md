@@ -1,4 +1,4 @@
-I'm a developer located in Bloomington, MN. A long-time SQL guru, I am expanding my knowledge base into application, web and mobile development. I've passed my final assessment for the [Software Engineering](https://flatironschool.com/campus-and-online-coding-bootcamp/) online program from [Flatiron School](https://flatironschool.com/) - excited to graduate!!  
+I'm a developer located in Bloomington, MN. A long-time SQL guru, I am expanding my knowledge base into application, web and mobile development. I've passed my final assessment for the [Software Engineering](https://flatironschool.com/campus-and-online-coding-bootcamp/) online program from [Flatiron School](https://flatironschool.com/) - excited to graduate!!  I plan to spend time polishing my projects and building on ideas that I generated in the learning process.
 
 I enjoy understanding how various languages relate and take on various tasks. It can be tough to dive in and just keep on trying but I keep a positive attitude and make it fun!
 
