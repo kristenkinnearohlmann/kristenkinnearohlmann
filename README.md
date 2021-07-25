@@ -1,3 +1,5 @@
+# [![kko header](https://raw.githubusercontent.com/kristenkinnearohlmann/kristenkinnearohlmann/img/react-code-screenshot.png)](https://kristenkinnearohlmann.dev)
+
 I'm Kristen (she/her), a full-stack software engineer and SQL guru located in Bloomington, MN. I am a graduate of [Flatiron School](https://flatironschool.com/). I enjoy understanding how various languages relate and take on various tasks.
 
 ## Languages
