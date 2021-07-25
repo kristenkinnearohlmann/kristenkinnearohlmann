@@ -1,4 +1,4 @@
-[![kko header](https://github.com/kristenkinnearohlmann/kristenkinnearohlmann/blob/master/img/react-code-screenshot.png)](https://kristenkinnearohlmann.dev)
+[![kko header](https://github.com/kristenkinnearohlmann/kristenkinnearohlmann/blob/master/img/react-code-screenshot-v2.png)](https://kristenkinnearohlmann.dev)
 
 I'm Kristen (she/her), a full-stack software engineer and SQL guru located in Bloomington, MN. I am a graduate of [Flatiron School](https://flatironschool.com/). I enjoy understanding how various languages relate and take on various tasks.
 
