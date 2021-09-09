@@ -10,6 +10,11 @@ Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux &bull; SQL &bull;
 
 ## Projects
 
+### Personal Projects
+
+- [Visual ITU Alphabet](https://github.com/kristenkinnearohlmann/itu-alpha): Learn the ITU alphabet for ham radio operation using images to assist in clearly remembering the associated word.  
+Stack: JavaScript (frontend and backend)
+
 ### Flatiron School Projects
 
 - [Race Stats Tracker](https://github.com/kristenkinnearohlmann/race-stats-tracker): Track and compare your races from mile to marathon with Race Stats Tracker.  
