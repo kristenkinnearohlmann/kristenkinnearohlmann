@@ -15,6 +15,11 @@ Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux &bull; SQL &bull;
 - [Visual ITU Alphabet](https://github.com/kristenkinnearohlmann/itu-alpha): Learn the ITU alphabet for ham radio operation using images to assist in clearly remembering the associated word.  
 Stack: JavaScript (frontend and backend)
 
+### Group Projects
+
+- [CALeidoscope](https://ether-cal-htg2021.netlify.app/): Hack the Gap entry for Team Mayo in 2021.  
+- Stack: React
+
 ### Flatiron School Projects
 
 - [Race Stats Tracker](https://github.com/kristenkinnearohlmann/race-stats-tracker): Track and compare your races from mile to marathon with Race Stats Tracker.  
