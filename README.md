@@ -20,7 +20,7 @@ Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux, Nextjs &bull; SQ
 
 ### Flatiron School Projects
 
-- [Race Stats Tracker](https://github.com/kristenkinnearohlmann/race-stats-tracker): Track and compare your races from mile to marathon with Race Stats Tracker. **Stack:** React (frontend) and Rails(backend)
+- [Race Stats Tracker](https://github.com/kristenkinnearohlmann/race-stats-tracker): Track and compare your races from mile to marathon with Race Stats Tracker. **Stack:** React (frontend) and Rails (backend)
 - [Repertoire Keeper](https://github.com/kristenkinnearohlmann/repertoire-keeper): Repertoire Keeper helps performing music organizations track the works they have presented. **Stack:** JavaScript (ES6) (frontend) and Rails (backend)
 - [Njoy Your Veggies](https://github.com/kristenkinnearohlmann/njoy-your-veggies): Vegetarian and vegan food is delicious and creative. Njoy Your Veggies is a collection of easy and tasty recipes that will make you smile. **Stack:** ERB (frontend) and Rails (backend)
 - [Idea Pool](https://github.com/kristenkinnearohlmann/idea-pool): Short on ideas for a project or to work through a new concept? Take a dip in the Idea Pool! **Stack:** ERB (frontend) and Sinatra (backend)
