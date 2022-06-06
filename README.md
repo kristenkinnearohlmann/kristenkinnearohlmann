@@ -8,6 +8,10 @@ Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux, Nextjs &bull; SQ
 ## Contact Information
 [kristenkinnearohlmann.dev](https://kristenkinnearohlmann.dev/) &bull; [@kinnear_ohlmann](https://twitter.com/kinnear_ohlmann) &bull; [in/kristenkinnearohlmann/](https://www.linkedin.com/in/kristenkinnearohlmann/) &bull; [kristenkinnearohlmann@gmail.com](mailto:kristenkinnearohlmann@gmail.com)
 
+## Presentations and Talks
+
+- [**Go For It! Fearless Pursuit of Your Tech Goals**](https://docs.google.com/presentation/d/1JNz8O6iOXnc2CmJ6qRRu0KM_ChuuMTxcPD2kls4SHCI/edit?usp=sharing): Presented at Minnebar16 June 2022
+
 ## Projects
 
 ### Personal Projects
