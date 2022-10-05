@@ -2,6 +2,8 @@
 
 I'm Kristen (she/her), a Full-Stack Software Engineer and SQL guru located in Bloomington, MN. I am a graduate of [Flatiron School](https://flatironschool.com/). I enjoy understanding how various languages relate and manage various tasks.
 
+[![@kinnearohlmann's Holopin board](https://holopin.io/api/user/board?user=kinnearohlmann)](https://holopin.io/@kinnearohlmann)
+
 ## Languages
 Python 🐍 &bull; Ruby, Rails &bull; Javascript, React, Redux, Nextjs &bull; SQL &bull; C# &bull; Java &bull; PHP
 
