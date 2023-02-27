@@ -1,6 +1,6 @@
 [![kko header](https://github.com/kristenkinnearohlmann/kristenkinnearohlmann/blob/master/img/react-code-screenshot-v2.png)](https://kristenkinnearohlmann.dev)
 
-I'm Kristen (she/her), a Full-Stack Software Engineer and SQL guru located in Bloomington, MN. I am a graduate of [Flatiron School](https://flatironschool.com/). I enjoy understanding how various languages relate and manage various tasks.
+I'm Kristen (she/her), a Full-Stack Software Engineer and SQL guru located in Bloomington, MN. I am a graduate of [Flatiron School](https://flatironschool.com/). I enjoy understanding how different languages relate and manage tasks.
 
 [![@kinnearohlmann's Holopin board](https://holopin.io/api/user/board?user=kinnearohlmann)](https://holopin.io/@kinnearohlmann)
 
